@@ -1,5 +1,3 @@
-console.log('Lamuchan')
-
 let searchBtn = document.getElementById('searchBtn');
 let inputCity = document.getElementById('city');
 const apiKey = 'f1831d5a052c5e8f97325cfe60835ff3'
